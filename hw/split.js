@@ -2,6 +2,4 @@ let text="When I find myself in times of trouble Mother Mary comes to me Speakin
 
 let arr=text.split(" ")
 
-for(let i=0; i<arr.length; i++){
-    console.log("["+arr[i]+"]")
-}
+console.log(arr)
