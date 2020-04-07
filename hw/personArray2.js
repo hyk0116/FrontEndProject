@@ -11,4 +11,4 @@ persons2[i]=Object.assign({},persons1[i])
 
 //persons2 배열갑 출력
 for(let i=0; i<10; i++)
-console.log(persons2[i])
+console.log(persons2[i]) 
